@@ -1,0 +1,19 @@
+# Ignore all raw photo files by extension anywhere in the project
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+*.webp
+*.gif
+
+# Ignore data folders
+/roboflow_data/
+/cell phone/
+/cell phone/labels/
+/images/
+/labels/
+/test/
+/train/
+/val/
+/yolo_dataset/

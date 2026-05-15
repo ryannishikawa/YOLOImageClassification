@@ -1,0 +1,8 @@
+
+path  : /mnt/c/Users/ryann/1rn/ml/yoloimageclassification/yolo_dataset
+train : images/train
+val   : images/val
+test  : images/test
+
+nc    : 1
+names : ['phone']

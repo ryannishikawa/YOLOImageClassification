@@ -10,7 +10,6 @@
 
 ## Problem Definition (slide 3)
 - goal. what is the business objective?
-- im not typing all that
 
 ## Evaluation and Performance (slide 4)
 - performance metrics used
