@@ -1,5 +1,5 @@
 # YOLOImageClassification
-- Using YOLOv8 and PyTorch
+- Using YOLO and PyTorch
 ## Dataset (slide 1)
 - include a link to dataset somewhere in slides
 - ex. we collected our data from [] for the IMDB movie dataset, the url for [] is []
